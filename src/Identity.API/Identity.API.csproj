@@ -7,10 +7,10 @@
 
   <ItemGroup>
     <PackageReference Include="Automapper" />
-    <PackageReference Include="Duende.IdentityServer.AspNetIdentity" />
-    <PackageReference Include="Duende.IdentityServer.EntityFramework" />
-    <PackageReference Include="Duende.IdentityServer.Storage" />
-    <PackageReference Include="Duende.IdentityServer" />
+    <PackageReference Include="Duende.IdentityServer.AspNetIdentity" Version="7.1.1" />
+    <PackageReference Include="Duende.IdentityServer.EntityFramework" Version="7.1.1" />
+    <PackageReference Include="Duende.IdentityServer.Storage" Version="7.1.1" />
+    <PackageReference Include="Duende.IdentityServer" Version="7.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools">
